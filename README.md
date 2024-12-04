@@ -12,9 +12,9 @@ File map
 │   └── landsat8-2018-01-26-sb-simplified.nc  # landsat data
 ├── .gitignore
 ├── README.md
-├── complete-thomas-fire-analysis.ipynb
-├── false-color-imagery.ipynb        # Jupyter notebooks for analysis
-└── thomas-aqi.ipynb     # Jupyter notebooks for analysis
+├── complete-thomas-fire-analysis.ipynb      # complete analysis for blog post
+├── false-color-imagery.ipynb                # false color analysis
+└── thomas-aqi.ipynb                         # aqi analysis
 ```
 
 ## Data access
