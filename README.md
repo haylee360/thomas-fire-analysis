@@ -19,7 +19,7 @@ File map
 
 ## Data access
 Data in this project were pulled from  
-- Air Quality Index (AQI): [US Environmental Protection Agency]([https://www.epa.gov/](https://www.airnow.gov/aqi/aqi-basics/))
+- Air Quality Index (AQI): [US Environmental Protection Agency](https://www.airnow.gov/aqi/aqi-basics/) 
 - Landsat: [Microsof Planetary Computer data catalogue](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2)
 - Fire Perimeter: [CalFire](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters)
 
