@@ -1,4 +1,4 @@
-# Visualizing the Thomas Fire Scar in Santa Barbara and Ventura County
+# Visualizing the Thomas Fire Scar and AQI in Santa Barbara and Ventura County
 ![thomas fire image](https://ca-times.brightspotcdn.com/dims4/default/13305b6/2147483647/strip/true/crop/2048x1365+0+0/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F08%2F7f21ae4862f56a40e34faa951a9f%2Fla-me-thomas-fire-photos-013)
 Image credits: [Los Angeles Times](https://www.latimes.com/local/lanow/la-me-thomas-fire-photos-photogallery.html)
 
