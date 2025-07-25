@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # name: eds220-env
+=======
+name: eds220-env
+>>>>>>> 3820748a0712b53d199d624fef7835185cc28597
 channels:
   - conda-forge
 dependencies:
@@ -23,4 +27,8 @@ dependencies:
   - s3fs
   - cartopy
   - intake-esm
+<<<<<<< HEAD
 # prefix: /Users/hayleeoyler/miniforge3/envs/eds220-env
+=======
+prefix: /Users/hayleeoyler/miniforge3/envs/eds220-env
+>>>>>>> 3820748a0712b53d199d624fef7835185cc28597
