@@ -1,0 +1,26 @@
+name: eds220-env
+channels:
+  - conda-forge
+dependencies:
+  - contextily
+  - geogif
+  - geopandas=0.14.4
+  - ipykernel
+  - jupyter
+  - matplotlib=3.7.1
+  - numpy=1.24.3
+  - pip=23.3.1
+  - python==3.11.10
+  - rioxarray=0.14.1
+  - duckdb
+  - ca-certificates
+  - certifi
+  - openssl
+  - libgdal-hdf5
+  - pystac-client
+  - planetary-computer
+  - intake
+  - s3fs
+  - cartopy
+  - intake-esm
+prefix: /Users/hayleeoyler/miniforge3/envs/eds220-env
