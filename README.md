@@ -14,6 +14,7 @@ File map
 ├── README.md
 ├── complete-thomas-fire-analysis.ipynb      # complete analysis for blog post
 ├── false-color-imagery.ipynb                # false color analysis
+├── mendocino-rbr-lulc.ipynb                 # Mendocino Complex Fire analysis
 └── thomas-aqi.ipynb                         # aqi analysis
 ```
 
